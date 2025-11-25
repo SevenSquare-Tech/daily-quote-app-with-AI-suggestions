@@ -3,6 +3,8 @@
 A beautifully designed Flutter application that displays motivational and inspirational quotes.  
 This project uses modern UI widgets, offline caching, screenshot sharing, and carousel sliders to enhance the user experience.
 
+[Step-by-step Guide to Build a Daily Quote App with AI in Flutter.](https://www.sevensquaretech.com/daily-quote-app-with-ai-flutter-openai-github-code/)
+
 ---
 
 ## 🚀 Features
